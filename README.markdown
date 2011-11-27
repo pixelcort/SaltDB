@@ -45,7 +45,7 @@ Basically you create a database instance, register some transform instances on i
 License
 -------
 
-See LICENSE.txt .
+MIT. See LICENSE.txt .
 
 Author
 ------
